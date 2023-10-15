@@ -1,0 +1,14 @@
+header {
+    background-color: rgba(0, 0, 255, 0.942);
+}
+.navbar-list a {
+    color: aliceblue;
+    text-decoration: none;
+}
+.navbar-list {
+    display: inline-block;
+}
+.navbar-list li {
+    display: inline-block;
+    margin-left: 32px;
+}
